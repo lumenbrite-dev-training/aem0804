@@ -1,0 +1,9 @@
+{
+  "mappings": [
+    "/content/aem0804/custom/example-1/:/ex-1"
+  ],
+  "includes": [
+    "/content/aem0804/",
+    "/content/dam/aem0804/"
+  ]
+}
